@@ -1,0 +1,1 @@
+"""Standalone Model Context Protocol servers."""
